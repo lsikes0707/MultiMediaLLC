@@ -1,5 +1,3 @@
-# MultiMediaLLC
-
 _This GitHub README serves as my cover letter for the Manual QA Engineer position at Multi Media LLC. If you'd like to see my repositories,  you can click here: [Lacey's Repos]([url](https://github.com/lsikes0707?tab=repositories))_
 
 
