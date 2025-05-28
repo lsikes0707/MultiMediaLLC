@@ -17,7 +17,7 @@ Multi Media LLC
 
 Dear Hiring Manager,
 
-I am excited to **reapply** for the Manual QA Engineer position at Multi Media LLC. I first applied earlier this month, and after learning more about your QA culture and the complexity of your platform, I'm even more enthusiastic about the opportunity. With 3+ years of experience ensuring the quality and stability of mission-critical software for defense and logistics systems, I'm eager to bring my manual testing skills, automation insight, and detail-driven mindset to a platform as dynamic and high-impact as Chaturbate.
+I am excited to reapply for the Manual QA Engineer position at Multi Media LLC. I first applied earlier this month, and after learning more about your QA culture and the complexity of your platform, I'm even more enthusiastic about the opportunity. With 3+ years of experience ensuring the quality and stability of mission-critical software for defense and logistics systems, I'm eager to bring my manual testing skills, automation insight, and detail-driven mindset to a platform as dynamic and high-impact as Chaturbate.
 
 At Tapestry Solutions, I led testing efforts for browser-based applications used globally by naval personnel, improving regression test cycles through automation while rigorously validating edge cases and exploratory scenarios. My day-to-day centered around cross-browser QA, triaging bugs in fast-moving Agile sprints, and mentoring teammates on test best practices – all of which align closely with the challenges outlined in your role.
 
